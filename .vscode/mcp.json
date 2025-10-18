@@ -1,8 +1,3 @@
 {
-  "servers": {
-    "mymlh": {
-      "type": "http",
-      "url": "https://mymlh-mcp.git.ci/mcp"
-    }
-  }
+	"servers": {}
 }
