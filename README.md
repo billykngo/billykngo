@@ -1,4 +1,3 @@
-
 # Billy Ngo
 
 ![avatar](https://avatars.githubusercontent.com/u/10876150?v=4)
@@ -10,6 +9,12 @@ I'm a software developer interested in web and mobile apps, cloud hosting, and T
 Hi! I'm Billy Ngo, a software developer passionate about creating innovative solutions across web and mobile platforms. I specialize in TypeScript/JavaScript development and have experience with cloud services, particularly Azure.
 
 ## Featured Projects
+
+🚶‍♂️ [walk-n-sync](https://github.com/billykngo/walk-n-sync)
+
+- A synchronized walking and learning application
+- Built with TypeScript, React, and Vite
+- Integrates various APIs for a rich user experience
 
 🎨 [BeautyInGrowth](https://github.com/billykngo/BeautyInGrowth)
 
@@ -44,7 +49,7 @@ Hi! I'm Billy Ngo, a software developer passionate about creating innovative sol
 ## Quick Stats & Links
 
 - GitHub: https://github.com/billykngo
-- Public repos: 8
+- Public repos: 9
 - Followers: 0
 
 ## Technical Skills & Interests
